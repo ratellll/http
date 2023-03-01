@@ -11,3 +11,9 @@ URN-Name : 리소스에 이름을 부여
 
 위치는 변할 수 있지만 , 이름은 변하지않는다.
 URN이름만으로는 실제 리소를 찾을수 있는 방법이 보편화되지않음
+
+
+scheme://[userinfo@]host[:port][/path][?query][#fragment]
+ https://www.google.com:443/search?q=hello&hl=ko
+
+
